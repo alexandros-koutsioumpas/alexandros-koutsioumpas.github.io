@@ -1,3 +1,5 @@
+![avatar](/media/avatar.jpg)
+
 I am currently staff scientist at JCNS @ MLZ (near Munich, Germany), instrument responsible of the MARIA neutron reflectometer.
 I received my PhD in 2009 from the Physics Department of the University of Patras (Greece), under the supervision of Prof. George Priftis  The title of my PhD thesis is “Study of interfacial phenomena by the Surface Plasmon Resonance Technique”.
 During 2009-2011, I worked as a PostDoc at the Laboratoire Léon Brillouin, CEA Saclay in the Biology and Disordered Systems Group and also for another two years 2011-2013 at the french national synchrotron facility SOLEIL (beamline SWING).
