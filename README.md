@@ -1,4 +1,4 @@
-![avatar](/media/avatar.jpg)
+<img src="/media/avatar.jpg" alt="avatar" width="200"/>
 
 I am currently staff scientist at JCNS @ MLZ (near Munich, Germany), instrument responsible of the MARIA neutron reflectometer.
 I received my PhD in 2009 from the Physics Department of the University of Patras (Greece), under the supervision of Prof. George Priftis  The title of my PhD thesis is “Study of interfacial phenomena by the Surface Plasmon Resonance Technique”.
