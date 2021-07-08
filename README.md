@@ -1,4 +1,4 @@
-# alexandros-koutsioumpas.github.io
+# Alexandros Koutsioumpas
 personal website
 
 I am currently staff scientist at JCNS @ MLZ (near Munich, Germany), instrument responsible of the MARIA neutron reflectometer.
