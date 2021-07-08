@@ -7,9 +7,9 @@ During 2009-2011, I worked as a PostDoc at the Laboratoire Léon Brillouin, CEA 
 
 **General Research Interests**
 
-✓Small angle scattering and Reflectivity (neutrons, x-rays)
-✓Biophysics and Soft Matter Physics
-✓Computer Simulation of polymers and proteins (Molecular Dynamics, Monte Carlo)
+- Small angle scattering and Reflectivity (neutrons, x-rays)
+- Biophysics and Soft Matter Physics
+- Computer Simulation of polymers and proteins (Molecular Dynamics, Monte Carlo)
 
 **Current projects**
 
