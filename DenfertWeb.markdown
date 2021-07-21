@@ -25,6 +25,21 @@ ___
 
 ___
 ### Parameter Input (X-rays)
+<script type="text/javascript">
+	function shrinktext() {
+	var size = document.getElementById("sdata").value.length;
+	var s=Math.ceil(size/32000);
+	var string=document.getElementById("sdata").value;
+	var lines = string.split('\n');
+	var out="";
+	//debugger;
+	for(var i = 0;i < lines.length;i=i+s){
+		out=out+lines[i]+'\n';
+}
+	document.getElementById("sdata").value=out;
+	return True;
+}
+</script>
 
 <script type="text/javascript">var submitted=false;</script>
 <iframe name="hidden_iframe" id="hidden_iframe" style="display:none;" onload="if(submitted)  {window.location='{{site.baseurl}}/assets/webdenfert_submit_message.html';}"></iframe>
@@ -39,8 +54,8 @@ ___
 <p> <label>Project name</label>
 <input name="entry.896354957" required size="45" type="text" /> <small> use only alphanumeric characters and spaces </small> </p>
 
-<p> paste ASCII scattering data <small> (32 Kbytes max) </small> </p>
-<p> <textarea maxlength ="32000" name="entry.2117040675" required type="text" rows = "5" cols = "80"></textarea> </p>
+<p> paste ASCII scattering data </p>
+<p> <textarea name="entry.2117040675" id="sdata" required type="text" rows = "5" cols = "80"></textarea> </p>
 
 <p> momentum transfer (Q) in <input type="radio" name="entry.493766941" required value="angstrom" checked="checked"> (1/Angstrom) <input type="radio" name="entry.493766941" value="nm"> (1/nm) units <br> </p> 
 
@@ -54,7 +69,7 @@ solvent electron density (e/Angstrom^3):  <input type="text" name="entry.4741743
 
 <p> <input type="radio" name="entry.1033017014" required value="large" checked="checked"> large beads <small> (faster reconstruction)</small>  <input type="radio" name="entry.1033017014" value="small"> small beads <small>(slower reconstruction)</small> <br> </p> 
 
-<input type="submit" value="start reconstruction from SAXS data" />
+<input type="submit" value="start reconstruction from SAXS data" onclick="shrinktext();" />
 
 </form>
 ___
@@ -62,6 +77,21 @@ ___
 ---
 
 ### Parameter Input (neutrons)
+<script type="text/javascript">
+	function shrinktextB() {
+	var size = document.getElementById("sdataB").value.length;
+	var s=Math.ceil(size/32000);
+	var string=document.getElementById("sdataB").value;
+	var lines = string.split('\n');
+	var out="";
+	//debugger;
+	for(var i = 0;i < lines.length;i=i+s){
+		out=out+lines[i]+'\n';
+}
+	document.getElementById("sdataB").value=out;
+	return True;
+}
+</script>
 
 <script type="text/javascript">var submitted=false;</script>
 <iframe name="hidden_iframe" id="hidden_iframe" style="display:none;" onload="if(submitted)  {window.location='{{site.baseurl}}/assets/webdenfert_submit_message.html';}"></iframe>
@@ -76,8 +106,8 @@ ___
 <p> <label>Project name</label>
 <input name="entry.896354957" required size="45" type="text" /> <small> use only alphanumeric characters and spaces </small> </p>
 
-<p> paste ASCII scattering data <small> (32 Kbytes max) </small> </p>
-<p> <textarea maxlength ="32000" name="entry.2117040675" required type="text" rows = "5" cols = "80"></textarea> </p>
+<p> paste ASCII scattering data </p>
+<p> <textarea name="entry.2117040675" id="sdataB" required type="text" rows = "5" cols = "80"></textarea> </p>
 
 <p> momentum transfer (Q) in <input type="radio" name="entry.493766941" required value="angstrom" checked="checked"> (1/Angstrom) <input type="radio" name="entry.493766941" value="nm"> (1/nm) units <br> </p> 
 
@@ -96,7 +126,7 @@ solvent scattering length density (10^-6/Angstrom^2):  <input type="text" name="
 
 <p> <input type="radio" name="entry.1033017014" required value="large" checked="checked"> large beads <small> (faster reconstruction)</small>  <input type="radio" name="entry.1033017014" value="small"> small beads <small>(slower reconstruction)</small> <br> </p> 
 
-<input type="submit" value="start reconstruction from SANS data" />
+<input type="submit" value="start reconstruction from SANS data" onclick="shrinktextB();" />
 
 </form>
 ___
@@ -114,8 +144,6 @@ ___
     4.837912E-02          5.547052      1.474577E-01 
     5.071064E-02          5.296281      1.436712E-01 
 ```
-
-- If the pasted scattering data exceed the size of 32 _KBytes_ consider reducing the whitespace in the data and/or the number of experimental points.
 
 - Avoid any zero or negative values for _Q_, intensity and intensity error bar in the input file.
 
