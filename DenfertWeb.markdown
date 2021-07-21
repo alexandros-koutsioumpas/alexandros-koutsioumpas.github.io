@@ -145,7 +145,7 @@ ___
     5.071064E-02          5.296281      1.436712E-01 
 ```
 
-- Avoid any zero or negative values for _Q_, intensity and intensity error bar in the input file.
+- Avoid any zero or negative values for _Q_, _intensity_ and _intensity error bar_ in the input file.
 
 - Any existing comment lines in the ASCII data file will be ignored.
 
@@ -153,9 +153,9 @@ ___
 
 - Units can be either in Angstrom or nm and this info needs to be specified in the radio buttons next to the input filename. If input experimental data are in Angstrom then the optional _Dmax,Qmax_ values should be given in _Angstrom_ and _1/Ansgtrom_ units respectively. If input experimental data are in nm then the optional _Dmax,Qmax_ values should be given in nm and _1/nm_ units respectively.
 
-- Default sld and electron densities are those of proteins. In the case of nucleic acids, these values need to be adjusted by the user.
+- Default _sld_ and _electron densities_ are those of proteins. In the case of nucleic acids, these values need to be adjusted by the user.
 
-- Default sld (neutron case) is that of deuterated water. If you work with a mixed H2O/D2O solvent you need to adjust this value.
+- Default _sld_ (neutron case) is that of deuterated water. If you work with a mixed H2O/D2O solvent you need to adjust this value.
 
 - Instrument resolution info has to be provided only for SANS reconstructions. Default values represent usual settings at a SANS diffractometer.
 
