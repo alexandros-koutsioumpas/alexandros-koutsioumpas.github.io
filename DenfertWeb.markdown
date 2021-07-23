@@ -52,7 +52,7 @@ ___
 <input name="entry.2107985966" required size="40" type="email" /> <small> Results will be sent to this address </small> </p>
 
 <p> <label>Project name</label>
-<input name="entry.896354957" required size="45" type="text" /> <small> use only alphanumeric characters and spaces </small> </p>
+<input name="entry.896354957" required size="45" type="text" /> <small> only alphanumeric characters (keep it simple) </small> </p>
 
 <p> paste ASCII scattering data </p>
 <p> <textarea name="entry.2117040675" id="sdata" required type="text" rows = "5" cols = "80"></textarea> </p>
@@ -104,7 +104,7 @@ ___
 <input name="entry.2107985966" required size="40" type="email" /> <small> Results will be sent to this address </small> </p>
 
 <p> <label>Project name</label>
-<input name="entry.896354957" required size="45" type="text" /> <small> use only alphanumeric characters and spaces </small> </p>
+<input name="entry.896354957" required size="45" type="text" /> <small> only alphanumeric characters (keep it simple) </small> </p>
 
 <p> paste ASCII scattering data </p>
 <p> <textarea name="entry.2117040675" id="sdataB" required type="text" rows = "5" cols = "80"></textarea> </p>
@@ -151,7 +151,7 @@ ___
 
 - Consider to remove from the ASCII data file any early experimental points that might not follow the Guinier law.
 
-- Units can be either in Angstrom or nm and this info needs to be specified in the radio buttons next to the input filename. If input experimental data are in Angstrom then the optional _Dmax,Qmax_ values should be given in _Angstrom_ and _1/Ansgtrom_ units respectively. If input experimental data are in nm then the optional _Dmax,Qmax_ values should be given in nm and _1/nm_ units respectively.
+- Units can be either in Angstrom or nm and this info needs to be specified in the radio buttons. If input experimental data are in Angstrom then the optional _Dmax,Qmax_ values should be given in _Angstrom_ and _1/Ansgtrom_ units respectively. If input experimental data are in nm then the optional _Dmax,Qmax_ values should be given in nm and _1/nm_ units respectively.
 
 - Default _sld_ and _electron densities_ are those of proteins. In the case of nucleic acids, these values need to be adjusted by the user.
 
