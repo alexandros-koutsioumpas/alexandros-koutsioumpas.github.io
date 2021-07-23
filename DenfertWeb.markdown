@@ -52,7 +52,7 @@ ___
 <input name="entry.2107985966" required size="40" type="email" /> <small> Results will be sent to this address </small> </p>
 
 <p> <label>Project name</label>
-<input name="entry.896354957" required size="45" type="text" /> <small> only alphanumeric characters (keep it simple) </small> </p>
+<input name="entry.896354957" required size="30" type="text" maxlength="30" /> <small> only alphanumeric characters (keep it simple) </small> </p>
 
 <p> paste ASCII scattering data </p>
 <p> <textarea name="entry.2117040675" id="sdata" required type="text" rows = "5" cols = "80"></textarea> </p>
@@ -104,7 +104,7 @@ ___
 <input name="entry.2107985966" required size="40" type="email" /> <small> Results will be sent to this address </small> </p>
 
 <p> <label>Project name</label>
-<input name="entry.896354957" required size="45" type="text" /> <small> only alphanumeric characters (keep it simple) </small> </p>
+<input name="entry.896354957" required size="30" type="text" maxlength="30" /> <small> only alphanumeric characters (keep it simple) </small> </p>
 
 <p> paste ASCII scattering data </p>
 <p> <textarea name="entry.2117040675" id="sdataB" required type="text" rows = "5" cols = "80"></textarea> </p>
@@ -145,7 +145,7 @@ ___
     5.071064E-02          5.296281      1.436712E-01 
 ```
 
-- Avoid any zero or negative values for _Q_, _intensity_ and _intensity error bar_ in the input file.
+- Avoid any zero or negative values for _Q_, _intensity_ and _intensity error bar_ in the input file. Also exclude any high-Q flat plateaus that are obviously background dominated. 
 
 - Any existing comment lines in the ASCII data file will be ignored.
 
