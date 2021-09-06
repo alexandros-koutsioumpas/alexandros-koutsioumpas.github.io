@@ -6,6 +6,7 @@ permalink: /HENA/
 
 Archive of the Hellenic Neutron Association (HENA) newsletter 
 
+- [Issue #7, September 2021]({{site.baseurl}}/assets/HENA-Newsletter-7th-issue.pdf)
 - [Issue #6, April 2020]({{site.baseurl}}/assets/HENA_newsletter_6.pdf)
 - [Issue #5, October 2019]({{site.baseurl}}/assets/HENA_newsletter_5.pdf)
 - [Issue #4, January 2019]({{site.baseurl}}/assets/HENA_newsletter_4.pdf)
