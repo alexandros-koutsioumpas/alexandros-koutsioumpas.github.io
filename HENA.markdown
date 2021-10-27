@@ -15,4 +15,4 @@ Archive of the Hellenic Neutron Association (HENA) newsletter
 - [Issue #1, February 2017]({{site.baseurl}}/assets/HENA_newsletter_1.pdf)
 
 
-In case you want to contribute articles to the newsltter, contact the editorial board..
+Contact the editorial board for ideas and contribution of articles to the newsletter.
