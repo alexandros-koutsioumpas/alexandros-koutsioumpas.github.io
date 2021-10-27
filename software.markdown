@@ -8,7 +8,7 @@ Here is information about Scientific Software Packages I have developed over the
 
 **ANAKLASIS**
 
-[_anaklasis_](https://github.com/alexandros-koutsioumpas/anaklasis) is a set of open-source _Python3_ scripts (with _fortran90_ extensions) that facilitate a range of specular neutron and x-ray reflectivity calculations, involving the generation of theoretical curves and the comparison/fit of interfacial model reflectivity against experimental datasets. 
+[_anaklasis_](https://doi.org/10.1107/S1600576721009262) is a set of open-source _Python3_ scripts (with _fortran90_ extensions) that facilitate a range of specular neutron and x-ray reflectivity calculations, involving the generation of theoretical curves and the comparison/fit of interfacial model reflectivity against experimental datasets. 
 
 In the [project repository page](https://github.com/alexandros-koutsioumpas/anaklasis) you may find instructions for installing the package on all major platforms (_Linux_, _macOS_, _Windows_) and also documentation and examples in the form of scripts and _Jupyter_ notebooks.
 
