@@ -12,6 +12,8 @@ permalink: /Publications/
 
 **2021**
 
+- [anaklasis: a compact software package for model-based analysis of specular neutron and X-ray reflectometry data sets](https://doi.org/10.1107/S1600576721009262) Koutsioubas, A, **Journal of Applied Crystallogtaphy** (2021) 54 
+
 - [Mutually Beneficial Combination of Molecular Dynamics Computer Simulations and Scattering Experiments](https://doi.org/10.3390/membranes11070507) Zec, N., Mangiapia, G., Hendry, A.C., Barker, R., Koutsioubas, A., Frielinghaus, H., Campana, M., Ortega-Roldan, J.L., Busch, S., Moulin, J.-F. **Membranes** (2021) 11, 507 
 
 - [Influence of NaCl on the Structure and Dynamics of Phospholipid Layers](https://doi.org/10.3389/fphy.2021.628219) Jaksch Sebastian, Holderer Olaf, Frielinghaus Henrich, Koutsioubas Alexandros, Zolnierczuk Piotr, Hayward Dominic William, Förster Stephan, Müller-Buschbaum Peter **Frontiers in Physics** (2021) 9, 272
