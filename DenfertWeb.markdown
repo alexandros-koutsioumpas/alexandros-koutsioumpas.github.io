@@ -49,7 +49,7 @@ ___
 
 
 <p> <label>Email</label>
-<input name="entry.2107985966" required size="40" type="email" /> <small> Results will be sent to this address </small> </p>
+<input name="entry.2107985966" required size="40" type="email" /> <small> Important! your address shoud be registered (see above) </small> </p>
 
 <p> <label>Project name</label>
 <input name="entry.896354957" required size="30" type="text" maxlength="30" /> <small> only alphanumeric characters (keep it simple) </small> </p>
@@ -101,7 +101,7 @@ ___
 
 
 <p> <label>Email</label>
-<input name="entry.2107985966" required size="40" type="email" /> <small> Results will be sent to this address </small> </p>
+<input name="entry.2107985966" required size="40" type="email" /> <small> Important! your address shoud be registered (see above) </small> </p>
 
 <p> <label>Project name</label>
 <input name="entry.896354957" required size="30" type="text" maxlength="30" /> <small> only alphanumeric characters (keep it simple) </small> </p>
