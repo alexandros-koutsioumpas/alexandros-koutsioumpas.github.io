@@ -34,7 +34,9 @@ If you use DENFERT, please cite :
 
 [A. Koutsioubas, S. Jaksch & J.Pérez, J. (2016). **J. Appl. Cryst.** 49, 690](http://dx.doi.org/10.1107/S1600576716003393)
 
-The version 2.3 of the program can be downloaded from this [link]({{site.baseurl}}/assets/denfert_v2p3.zip).
+An automatic webserver running DENFERT is available [link](https://alexandros-koutsioumpas.github.io/Denfert/)
+
+Also version 2.3 of the program can be downloaded from this [link]({{site.baseurl}}/assets/denfert_v2p3.zip).
 
 [User manual download]({{site.baseurl}}/assets/denfert_manual.pdf)
 
