@@ -54,7 +54,7 @@ ___
 <p> <label>Project name</label>
 <input name="entry.896354957" required size="30" type="text" maxlength="30" /> <small> only alphanumeric characters (keep it simple) </small> </p>
 
-<p> paste ASCII scattering data </p>
+<p> paste ASCII scattering data (exclude any negative intensity values!)</p>
 <p> <textarea name="entry.2117040675" id="sdata" required type="text" rows = "5" cols = "80"></textarea> </p>
 
 <p> momentum transfer (Q) in <input type="radio" name="entry.493766941" required value="angstrom" checked="checked"> (1/Angstrom) <input type="radio" name="entry.493766941" value="nm"> (1/nm) units <br> </p> 
@@ -106,7 +106,7 @@ ___
 <p> <label>Project name</label>
 <input name="entry.896354957" required size="30" type="text" maxlength="30" /> <small> only alphanumeric characters (keep it simple) </small> </p>
 
-<p> paste ASCII scattering data </p>
+<p> paste ASCII scattering data (exclude any negative intensity values!) </p>
 <p> <textarea name="entry.2117040675" id="sdataB" required type="text" rows = "5" cols = "80"></textarea> </p>
 
 <p> momentum transfer (Q) in <input type="radio" name="entry.493766941" required value="angstrom" checked="checked"> (1/Angstrom) <input type="radio" name="entry.493766941" value="nm"> (1/nm) units <br> </p> 
