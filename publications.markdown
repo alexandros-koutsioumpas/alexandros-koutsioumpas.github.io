@@ -12,6 +12,8 @@ permalink: /Publications/
 
 **2021**
 
+- [Migration Kinetics of Surface Ions in Oxygen-Deficient Perovskite During Topotactic Transitions](https://doi.org/10.1002/smll.202104356) Lei Cao, Oleg Petracic, Xian-Kui Wei, Hengbo Zhang, Tomáš Duchoň, Felix Gunkel, Alexandros Koutsioubas, Kirill Zhernenkov, Konstantin Z. Rushchanskii, Heinrich Hartmann, Marek Wilhelm, Zichao Li, Yufang Xie, Suqin He, Moritz L. Weber, Kateřina Veltruská, Annika Stellhorn, Joachim Mayer, Shengqiang Zhou, Thomas Brückel **Small** (2021) 2104356
+
 - [Sitosterol and glucosylceramide cooperative transversal and lateral uneven distribution in plant membranes](https://doi.org/10.1038/s41598-021-00696-7) V. Rondelli, A. Koutsioubas, J. Pršić, E. Deboever, J. M. Crowet, L. Lins & M. Deleu, **Scientific Reports** (2021) 11, 21618 
 
 - [anaklasis: a compact software package for model-based analysis of specular neutron and X-ray reflectometry data sets](https://doi.org/10.1107/S1600576721009262) Koutsioubas, A, **Journal of Applied Crystallography** (2021) 54 
