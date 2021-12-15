@@ -1,0 +1,15 @@
+---
+layout: post
+title:  "Lipid Bilayers at ESS-BESS in Lund Workshop"
+date:   2021-12-15 14:18:20 +0200
+categories: jekyll update
+---
+
+
+<img src="{{site.baseurl}}/assets/BESS2022_logo_draft4.jpg" alt="danville" width="300"/>
+
+It is a pleasure to be a member of the scientific commitee of the upcoming ESS-BESS workshop that will take place in Lund this summer. It will be a great forum for people working in the field of membrane biophysics.
+
+Registration and abstract submssion details will be availiable soon. Keep an eye on the workshop's [website](https://www.linxs.se/events/2022/6/13/linxs-partner-event-lipid-bilayers-at-ess-bess-in-lund-13-15-june-2022).
+
+Hope to see you in June at Lund!
