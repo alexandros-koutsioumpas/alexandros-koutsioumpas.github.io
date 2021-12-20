@@ -6,7 +6,7 @@ categories: jekyll update
 ---
 
 
-As we approach the end of the year, here is the list of the publication output of out Neutron Reflectometer MARIA. All articles in the list have a 2021 publication date and contain data acquired at MARIA.
+As we approach the end of the year, here is the list of the publication output of our Neutron Reflectometer MARIA. All articles in the list have a 2021 publication date and contain data acquired at MARIA.
 
 - *Structural, electronic, and magnetic properties of Co4N thin films deposited using HiPIMS*, [Journal of Alloys and Compounds](https://doi.org/10.1016/j.jallcom.2020.158052)
 - *Magnetic Particle Self-Assembly at Functionalized Interfaces*, [Langmuir](https://doi.org/10.1021/acs.langmuir.0c03235) 
