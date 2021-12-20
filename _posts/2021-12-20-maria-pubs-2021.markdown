@@ -1,0 +1,23 @@
+---
+layout: post
+title:  "MARIA Reflectometer publications: 2021"
+date:   2016-02-11 14:18:20 +0200
+categories: jekyll update
+---
+
+
+As we approach the end of the year, here is the list of the publication output of out Neutron Reflectometer MARIA. All articles in the list have a 2021 publication date and contain data acquired at MARIA.
+
+- *Structural, electronic, and magnetic properties of Co4N thin films deposited using HiPIMS*, [Journal of Alloys and Compounds](https://doi.org/10.1016/j.jallcom.2020.158052)
+- *Magnetic Particle Self-Assembly at Functionalized Interfaces*, [Langmuir](https://doi.org/10.1021/acs.langmuir.0c03235) 
+- *Insertion and activation of functional Bacteriorhodopsin in a floating bilayer*, [Journal of Colloid and Interface Science](https://doi.org/10.1016/j.jcis.2021.03.155)
+- *Adhesion process of biomimetic myelin membranes triggered by myelin basic protein*, [Frontiers in Chemistry](https://doi.org/10.3389/fchem.2021.631277)
+- *Soliton-mediated magnetic reversal in an all-oxide-based synthetic antiferromagnetic superlattice*, [ACS Applied Materials & Interfaces](https://doi.org/10.1021/acsami.1c02506)
+- *Direct observation of spin correlations in an artificial triangular lattice Ising spin system with grazing- incidence small-angle neutron scattering*, [Nanoscale Horizons](https://doi.org/10.1039/d1nh00043h)
+- *Influence of NaCl on the structure and dynamics of phospholipid layers*, [Frontiers in Physics](https://doi.org/10.3389/fphy.2021.628219)
+- *Mutually Beneficial Combination of Molecular Dynamics Computer Simulations and Scattering Experiments*, [MDPI Membranes](https://www.mdpi.com/2077-0375/11/7/507)
+- *Unexpected Precipitates in Conjunction with Layer-by-Layer Growth in Mn-…*, [Thin Solid Films](https://doi.org/10.1016/j.tsf.2021.138862)
+- *Sitosterol and glucosylceramide: a collusive couple in plant membranes*, [Sci. Rep.](https://doi.org/10.1038/s41598-021-00696-7)
+- *anaklasis: a compact software package for model-based analysis of specular neutron and X-ray reflectometry data sets*, [J. Appl. Cryst.](https://doi.org/10.1107/S1600576721009262)
+- *Migration kinetics of surface ions in oxygen-deficient perovskite during topotactic transitions* [Small](https://doi.org/10.1002/smll.202104356)
+- *Modulation of Plant Plasma Membrane Structure by Exogenous Fatty Acid Hydroperoxide is a Potential Perception Mechanism for their Eliciting Activity*, [Plant, Cell & Environement](https://doi.org/10.22541/au.161468800.08766598/v1)
