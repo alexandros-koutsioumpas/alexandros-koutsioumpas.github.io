@@ -12,6 +12,10 @@ permalink: /Publications/
 
 **2021**
 
+- [Open-Bundle Structure as the Unfolding Intermediate of Cytochrome c′ Revealed by Small Angle Neutron Scattering](https://doi.org/10.3390/biom12010095) Takahide Yamaguchi, Kouhei Akao, Alexandros Koutsioubas, Henrich Frielinghaus and Takamitsu Kohzuma **Biomolecules** (2022) 12, 95
+
+**2021**
+
 - [Migration Kinetics of Surface Ions in Oxygen-Deficient Perovskite During Topotactic Transitions](https://doi.org/10.1002/smll.202104356) Lei Cao, Oleg Petracic, Xian-Kui Wei, Hengbo Zhang, Tomáš Duchoň, Felix Gunkel, Alexandros Koutsioubas, Kirill Zhernenkov, Konstantin Z. Rushchanskii, Heinrich Hartmann, Marek Wilhelm, Zichao Li, Yufang Xie, Suqin He, Moritz L. Weber, Kateřina Veltruská, Annika Stellhorn, Joachim Mayer, Shengqiang Zhou, Thomas Brückel **Small** (2021) 2104356
 
 - [Sitosterol and glucosylceramide cooperative transversal and lateral uneven distribution in plant membranes](https://doi.org/10.1038/s41598-021-00696-7) V. Rondelli, A. Koutsioubas, J. Pršić, E. Deboever, J. M. Crowet, L. Lins & M. Deleu, **Scientific Reports** (2021) 11, 21618 
@@ -203,5 +207,5 @@ permalink: /Publications/
 
 - Alexandros Koutsioubas [Formation of polymer brushes inside cylindrical pores](https://www.taylorfrancis.com/books/e/9780429107078/chapters/10.1201/b11824-10)in the book entitled _Functional Polymer Brushes: Substrates, Technologies and Properties_ edited by Vikas Mittal, Taylor & Francis Group
 
-- Andreas Stadler & Alexandros Koutsioumpas [Scattering applications in life sciences](https://www.fz-juelich.de/SharedDocs/Downloads/PGI/EN/SpringSchool/Lecture-Notes-Book-Form/Skriptbuch-2019.pdf?__blob=publicationFile) in the book entitled _Lecture Notes of the 50th IFF Spring school 2019 - Scattering! Soft, Functional and Quantum Materials_ edited by Manuel Angst, Thomas Brückel, Stephan Förster, Karen Friese and Reiner Zorn, Schriften des Forschungszentrums Jülich
+- Andreas Stadler & Alexandros Koutsioumpas [Scattering applications in life sciences](https://www.fz-juelich.de/SharedDocs/Downloads/PGI/EN/SpringSchool/Lecture-Notes-Book-Form/Skriptbuch-2019.pdf?__blob=publicationFile) in the book entitled _Lecture Notes of the 50th IFF Spring school 2019 - Scattering! Soft, Functional and Quantum Materials_ edited by Manuel Angst, Thomas Brückel, Stephan Förster, Karen Friese and Reiner Zorn, Schriften des Forschungszentrums Jülich
 
