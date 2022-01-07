@@ -10,7 +10,7 @@ permalink: /Publications/
 
 [Google Scholar](https://scholar.google.de/citations?user=SuKPYFwAAAAJ&hl=en&oi=ao)
 
-**2021**
+**2022**
 
 - [Open-Bundle Structure as the Unfolding Intermediate of Cytochrome c′ Revealed by Small Angle Neutron Scattering](https://doi.org/10.3390/biom12010095) Takahide Yamaguchi, Kouhei Akao, Alexandros Koutsioubas, Henrich Frielinghaus and Takamitsu Kohzuma **Biomolecules** (2022) 12, 95
 
