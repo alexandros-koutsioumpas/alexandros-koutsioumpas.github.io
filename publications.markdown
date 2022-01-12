@@ -18,7 +18,7 @@ permalink: /Publications/
 
 - [Modulation of Plant Plasma Membrane Structure by Exogenous Fatty Acid Hydroperoxide is a Potential Perception Mechanism for their Eliciting Activity](https://doi.org/10.1111/pce.14239) Deboever Estelle, Van Aubel Géraldine, Rondelli Valeria, Koutsioubas Alexandros, Mathelie-Guinlet Marion, F. Dufrene Yves, Ongena Marc, Lins Laurence, Van Cutsem Pierre, Fauconnier Marie-Laure, Deleu Magali **Plant, Cell & Environement** (2021)
 
-<img src="{{site.baseurl}}/assets/plant_cell_magali.png" alt="memprot" style="right;" width="150"/>
+<img src="{{site.baseurl}}/assets/plant_cell_magali.png" alt="plant_cell" style="right;" width="300"/>
 
 - [Migration Kinetics of Surface Ions in Oxygen-Deficient Perovskite During Topotactic Transitions](https://doi.org/10.1002/smll.202104356) Lei Cao, Oleg Petracic, Xian-Kui Wei, Hengbo Zhang, Tomáš Duchoň, Felix Gunkel, Alexandros Koutsioubas, Kirill Zhernenkov, Konstantin Z. Rushchanskii, Heinrich Hartmann, Marek Wilhelm, Zichao Li, Yufang Xie, Suqin He, Moritz L. Weber, Kateřina Veltruská, Annika Stellhorn, Joachim Mayer, Shengqiang Zhou, Thomas Brückel **Small** (2021) 2104356
 
