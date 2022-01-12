@@ -16,7 +16,7 @@ permalink: /Publications/
 
 **2021**
 
-- [Modulation of Plant Plasma Membrane Structure by Exogenous Fatty Acid Hydroperoxide is a Potential Perception Mechanism for their Eliciting Activity](https://doi.org/10.1111/pce.14239) Deboever Estelle, Van Aubel Géraldine, Rondelli Valeria, Koutsioubas Alexandros, Mathelie-Guinlet Marion, F. Dufrene Yves, Ongena Marc, Lins Laurence, Van Cutsem Pierre, Fauconnier Marie-Laure, Deleu Magali **Plant, Cell & Environement** (2021)
+- [Modulation of Plant Plasma Membrane Structure by Exogenous Fatty Acid Hydroperoxide is a Potential Perception Mechanism for their Eliciting Activity](https://doi.org/10.1111/pce.14239) Deboever Estelle, Van Aubel Géraldine, Rondelli Valeria, Koutsioubas Alexandros, Mathelie-Guinlet Marion, F. Dufrene Yves, Ongena Marc, Lins Laurence, Van Cutsem Pierre, Fauconnier Marie-Laure, Deleu Magali **Plant, Cell & Environment** (2021)
 
 <img src="{{site.baseurl}}/assets/plant_cell_magali.png" alt="plant_cell" style="right;" width="300"/>
 
