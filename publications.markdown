@@ -12,6 +12,8 @@ permalink: /Publications/
 
 **2022**
 
+- [Effect of amphiphilic environment on the solution structure of mouse TSPO translocator protein](https://doi.org/10.1016/j.biochi.2022.11.014) Sophie Combet, Françoise Bonnete, Stéphanie Finet, Alexandre Pozza, Christelle Saade, Anne Martel, Alexandros Koutsioubas, Jean-Jacques Lacapere **Biochimie** (2022) in press
+
 - [Dysmyelination and glycolipid interference caused by phenylalanine in phenylketonuria](https://doi.org/10.1016/j.ijbiomac.2022.09.062) Valeria Rondelli, Alexandros Koutsioubas, Emanuela Di Cola, Giovanna Fragneto, I Grillo, Elena Del Favero, Laura Colombo, Laura Cantù, Paola Brocca, Mario Salmona   **Int. J. Biol. Macromol.** (2022) 221, 784
 
 <img src="{{site.baseurl}}/assets/Dysmyelination_TOC.jpg" alt="sugar_sugar" style="right;" width="400"/>
