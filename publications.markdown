@@ -12,7 +12,9 @@ permalink: /Publications/
 
 **2022**
 
-- [Carbohydrate-carbohydrate interaction drives the preferential insertion of dirhamnolipid into glycosphingolipid enriched membranes](https://doi.org/10.1016/j.jcis.2022.02.120) Valeria Rondelli, Luca Mollica, Alexandros Koutsioubas, Nail Nasir,  Marcus Trappe, Estelle Deboever,  Paola Brocca, Magali Deleu **Journal of Colloid and Interface Science** (2022) is press
+- [Carbohydrate-carbohydrate interaction drives the preferential insertion of dirhamnolipid into glycosphingolipid enriched membranes](https://doi.org/10.1016/j.jcis.2022.02.120) Valeria Rondelli, Luca Mollica, Alexandros Koutsioubas, Nail Nasir,  Marcus Trappe, Estelle Deboever,  Paola Brocca, Magali Deleu **Journal of Colloid and Interface Science** (2022) 616, 739
+
+<img src="{{site.baseurl}}/assets/sugar_sugar_TOC.jpg" alt="plant_cell" style="right;" width="300"/>
 
 - [Open-Bundle Structure as the Unfolding Intermediate of Cytochrome c′ Revealed by Small Angle Neutron Scattering](https://doi.org/10.3390/biom12010095) Takahide Yamaguchi, Kouhei Akao, Alexandros Koutsioubas, Henrich Frielinghaus and Takamitsu Kohzuma **Biomolecules** (2022) 12, 95
 
