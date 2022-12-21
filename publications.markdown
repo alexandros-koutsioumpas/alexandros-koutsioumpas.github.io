@@ -18,6 +18,8 @@ permalink: /Publications/
 
 - [Open-Bundle Structure as the Unfolding Intermediate of Cytochrome c′ Revealed by Small Angle Neutron Scattering](https://doi.org/10.3390/biom12010095) Takahide Yamaguchi, Kouhei Akao, Alexandros Koutsioubas, Henrich Frielinghaus and Takamitsu Kohzuma **Biomolecules** (2022) 12, 95
 
+[MLZ press release](https://mlz-garching.de/englisch/news-und-press/news-articles/neutrons-provide-new-insight-into-protein-folding.html)
+
 **2021**
 
 - [Modulation of Plant Plasma Membrane Structure by Exogenous Fatty Acid Hydroperoxide is a Potential Perception Mechanism for their Eliciting Activity](https://doi.org/10.1111/pce.14239) Deboever Estelle, Van Aubel Géraldine, Rondelli Valeria, Koutsioubas Alexandros, Mathelie-Guinlet Marion, F. Dufrene Yves, Ongena Marc, Lins Laurence, Van Cutsem Pierre, Fauconnier Marie-Laure, Deleu Magali **Plant, Cell & Environment** (2021)
