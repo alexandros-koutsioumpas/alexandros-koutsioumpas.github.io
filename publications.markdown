@@ -20,6 +20,8 @@ permalink: /Publications/
 
 <img src="{{site.baseurl}}/assets/sugar_sugar_TOC.jpg" alt="sugar_sugar" style="right;" width="300"/>
 
+- [Order vs. Disorder: Cholesterol and Omega-3 Phospholipids Determine Biomembrane Organization](https://doi.org/10.3390/ijms23105322) Augusta De Santis, Ernesto Scoppola, Maria Francesca Ottaviani, Alexandros Koutsioubas, Lester C Barnsley, Luigi Paduano, Gerardino D’Errico, Irene Russo Krauss **International Journal of Molecular Sciences** (2022) 23, 5322
+
 - [Open-Bundle Structure as the Unfolding Intermediate of Cytochrome c′ Revealed by Small Angle Neutron Scattering](https://doi.org/10.3390/biom12010095) Takahide Yamaguchi, Kouhei Akao, Alexandros Koutsioubas, Henrich Frielinghaus and Takamitsu Kohzuma **Biomolecules** (2022) 12, 95
 
 check related [MLZ press release](https://mlz-garching.de/englisch/news-und-press/news-articles/neutrons-provide-new-insight-into-protein-folding.html)
