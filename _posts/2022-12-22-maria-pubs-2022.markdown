@@ -5,7 +5,7 @@ date:   2022-12-22 12:01:00 +0200
 categories: jekyll update
 ---
 
-During 2022, three articles based on past neutron reflectivity experiments at MARIA Reflectometer where published. All these works concern biophysical investigations of model phospholipid membranes.
+During 2022, three articles based on past neutron reflectivity experiments at MARIA Reflectometer were published. All these works concern biophysical investigations of model phospholipid membranes.
 
 - [Dysmyelination and glycolipid interference caused by phenylalanine in phenylketonuria](https://doi.org/10.1016/j.ijbiomac.2022.09.062) Valeria Rondelli, Alexandros Koutsioubas, Emanuela Di Cola, Giovanna Fragneto, I Grillo, Elena Del Favero, Laura Colombo, Laura Cantù, Paola Brocca, Mario Salmona   **Int. J. Biol. Macromol.** (2022) 221, 784
 
