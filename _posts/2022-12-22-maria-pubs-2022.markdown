@@ -1,0 +1,18 @@
+---
+layout: post
+title:  "3 new membrane biophysics articles based on data acquired at MARIA Reflectometer"
+date:   2022-12-22 12:01:00 +0200
+categories: jekyll update
+---
+
+During 2022, three articles based on past neutron reflectivity experiments at MARIA Reflectometer where published. All these works concern biophysical investigations of model phospholipid membranes.
+
+- [Dysmyelination and glycolipid interference caused by phenylalanine in phenylketonuria](https://doi.org/10.1016/j.ijbiomac.2022.09.062) Valeria Rondelli, Alexandros Koutsioubas, Emanuela Di Cola, Giovanna Fragneto, I Grillo, Elena Del Favero, Laura Colombo, Laura Cantù, Paola Brocca, Mario Salmona   **Int. J. Biol. Macromol.** (2022) 221, 784
+
+<img src="{{site.baseurl}}/assets/Dysmyelination_TOC.jpg" alt="sugar_sugar" style="right;" width="400"/>
+
+- [Carbohydrate-carbohydrate interaction drives the preferential insertion of dirhamnolipid into glycosphingolipid enriched membranes](https://doi.org/10.1016/j.jcis.2022.02.120) Valeria Rondelli, Luca Mollica, Alexandros Koutsioubas, Nail Nasir,  Marcus Trappe, Estelle Deboever,  Paola Brocca, Magali Deleu **Journal of Colloid and Interface Science** (2022) 616, 739
+
+<img src="{{site.baseurl}}/assets/sugar_sugar_TOC.jpg" alt="sugar_sugar" style="right;" width="300"/>
+
+- [Order vs. Disorder: Cholesterol and Omega-3 Phospholipids Determine Biomembrane Organization](https://doi.org/10.3390/ijms23105322) Augusta De Santis, Ernesto Scoppola, Maria Francesca Ottaviani, Alexandros Koutsioubas, Lester C Barnsley, Luigi Paduano, Gerardino D’Errico, Irene Russo Krauss **International Journal of Molecular Sciences** (2022) 23, 5322
