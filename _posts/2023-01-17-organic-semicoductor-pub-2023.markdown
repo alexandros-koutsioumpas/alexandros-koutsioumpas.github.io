@@ -7,6 +7,10 @@ categories: jekyll update
 
 It is a great pleasure to finally see the final form of this work, that was mainly driven by our Danish collaborators. The article titled "Manipulating Organic Semiconductor Morphology with Visible Light" includes complentary GISANS measurements performed at the MARIA reflectometer and has potential technological impact related to the manipulation of flexible electronic materials properties using visible LED light.
 
+```{r echo=FALSE}
+blogdown::shortcode('tweet', '1615008207084077063')
+```
+
 Here is the link for the open access manuscript:
 
 [Manipulating Organic Semiconductor Morphology with Visible Light](https://doi.org/10.1002/adfm.202212835) Michael Korning Sørensen, Anders Skovbo Gertsen, Rocco Peter Fornari, Binbin Zhou, Xiaotong Zhang, Peter Uhd Jepsen, Edoardo Stanzani, Shinhee Yun, Marcial Fernández Castro, Matthias Schwartzkopf, Alexandros Koutsioubas, Piotr de Silva, Moises Espindola-Rodriguez, Luise Theil Kuhn, Jens Wenzel Andreasen **Advanced Functional Materials** (2023) 2212835
