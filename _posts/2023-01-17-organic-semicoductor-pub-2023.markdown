@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Manipulating Organic Semiconductor Morphology with Visible Light"
-date:   2023-01-23 12:01:00 +0200
+date:   2023-01-23 09:01:00 +0200
 categories: jekyll update
 ---
 
