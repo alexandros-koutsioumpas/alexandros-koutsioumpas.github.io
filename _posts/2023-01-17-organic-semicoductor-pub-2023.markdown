@@ -5,7 +5,7 @@ date:   2023-01-17 09:01:00 +0200
 categories: jekyll update
 ---
 
-It is a great pleasure to finally see the final form of this work, that was mainly driven by our Danish collaborators. The article titled "Manipulating Organic Semiconductor Morphology with Visible Light" includes complentary GISANS measurments performed at the MARIA reflectometer and has potential technological impact related to the manipulation of flexible electronic materials proerties using visible LED light.
+It is a great pleasure to finally see the final form of this work, that was mainly driven by our Danish collaborators. The article titled "Manipulating Organic Semiconductor Morphology with Visible Light" includes complentary GISANS measurments performed at the MARIA reflectometer and has potential technological impact related to the manipulation of flexible electronic materials properties using visible LED light.
 
 Here is the link for the open access manuscript:
 
