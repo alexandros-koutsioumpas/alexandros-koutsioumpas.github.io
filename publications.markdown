@@ -10,6 +10,12 @@ permalink: /Publications/
 
 [Google Scholar](https://scholar.google.de/citations?user=SuKPYFwAAAAJ&hl=en&oi=ao)
 
+**2023**
+
+- [Manipulating Organic Semiconductor Morphology with Visible Light](https://doi.org/10.1002/adfm.202212835) Michael Korning Sørensen, Anders Skovbo Gertsen, Rocco Peter Fornari, Binbin Zhou, Xiaotong Zhang, Peter Uhd Jepsen, Edoardo Stanzani, Shinhee Yun, Marcial Fernández Castro, Matthias Schwartzkopf, Alexandros Koutsioubas, Piotr de Silva, Moises Espindola-Rodriguez, Luise Theil Kuhn, Jens Wenzel Andreasen **Advanced Functional Materials** (2023) 2212835
+
+<img src="{{site.baseurl}}/assets/organic_semiconductor.jpg" alt="AdvMat_TOC" style="right;" width="400"/>
+
 **2022**
 
 - [Effect of amphiphilic environment on the solution structure of mouse TSPO translocator protein](https://doi.org/10.1016/j.biochi.2022.11.014) Sophie Combet, Françoise Bonnete, Stéphanie Finet, Alexandre Pozza, Christelle Saade, Anne Martel, Alexandros Koutsioubas, Jean-Jacques Lacapere **Biochimie** (2022) in press
