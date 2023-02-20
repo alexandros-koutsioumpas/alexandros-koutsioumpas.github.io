@@ -17,3 +17,5 @@ stuff published over the years in Greek language...
 
 - [Σας αρέσουν οι Pink Floyd;](https://www.lifo.gr/lifoland/you-send-it/sas-aresoyn-oi-pink-floyd) Lifo (2014)
 
+
+**Various essays**
