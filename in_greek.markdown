@@ -19,3 +19,5 @@ stuff published over the years in Greek language...
 
 
 **Various essays**
+
+- [article]({{site.baseurl}}/assets/.pdf) (February 2023)
