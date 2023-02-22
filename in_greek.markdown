@@ -20,4 +20,4 @@ stuff published over the years in Greek language...
 
 **Various essays**
 
-- [Υπάρχουν "φιλελεύθεροι" στη Ελλάδα;]({{site.baseurl}}/assets/Liberals_in_Greece.pdf) (February 2023)
+- [Υπάρχουν "φιλελεύθεροι" στη Ελλάδα;]({{site.baseurl}}/assets/Liberals_in_Greece.pdf) (2023)
