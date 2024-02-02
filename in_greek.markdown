@@ -21,3 +21,5 @@ stuff published over the years in Greek language...
 **Various essays**
 
 - [Υπάρχουν "φιλελεύθεροι" στην Ελλάδα;]({{site.baseurl}}/assets/Liberals_in_Greece.pdf) (2023)
+
+- [A reply to @cubic_logic]({{site.baseurl}}/assets/Reply_to_cubic_logic.pdf) (2024)
