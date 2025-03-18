@@ -10,6 +10,10 @@ permalink: /Publications/
 
 [Google Scholar](https://scholar.google.de/citations?user=SuKPYFwAAAAJ&hl=en&oi=ao)
 
+**2025**
+
+- [A supported lipid bilayer to model solid-ordered membrane domains](https://doi.org/10.1016/j.jcis.2025.137333) Sally Helmy, Luca Puricelli, Paola Brocca, Pietro Parisse, Alexandros Koutsioubas, Loredana Casalis f, Stephen C.L. Hall, Valeria Rondelli ***Journal of Colloid And Interface Science*** (2025) 137333 
+
 **2024**
 
 - [The affinity towards the hydrophobic region of biomimicking bacterial membranes drives the antimicrobial activity of EFV12 peptide from Lactobacillus gasseri gut microbiota](https://doi.org/10.1016/j.molliq.2024.126086) Giuseppe Vitiello, Alessandra Luchini, Michela Di Napoli, Noemi Gallucci, Domenico Cavasso, Alexandros Koutsioubas, Mario Varcamonti, Anna Zanfardino, Giovanna Fragneto, Luigi Paduano ***Journal of Molecular Liquids*** (2024) 126086
