@@ -12,6 +12,6 @@ After last summer's succesful PhD by Sally Helmy at the "Università Degli Studi
 
 ...a new manuscript just got published today including some nice use of [anaklasis](https://github.com/alexandros-koutsioumpas/anaklasis/tree/main) package.
 
-[A supported lipid bilayer to model solid-ordered membrane domains](https://doi.org/10.1016/j.jcis.2025.137333) Sally Helmy, Luca Puricelli, Paola Brocca, Pietro Parisse, Alexandros Koutsioubas, Loredana Casalis f, Stephen C.L. Hall, Valeria Rondelli ***Journal of Colloid And Interface Science*** (2025) 137333 
+[A supported lipid bilayer to model solid-ordered membrane domains](https://doi.org/10.1016/j.jcis.2025.137333) Sally Helmy, Luca Puricelli, Paola Brocca, Pietro Parisse, Alexandros Koutsioubas, Loredana Casalis, Stephen C.L. Hall, Valeria Rondelli ***Journal of Colloid And Interface Science*** (2025) 137333 
 
 <img src="{{site.baseurl}}/assets/Sally_membrane.jpg" alt="membrane_vs_temperature" width="400"/>
