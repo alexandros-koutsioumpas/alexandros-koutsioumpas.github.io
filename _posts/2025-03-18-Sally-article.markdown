@@ -6,7 +6,7 @@ categories: jekyll update
 ---
 
 
-After last summer's succesful PhD by Sally Helmy at the "Università Degli Studi di Milano"...
+After last summer's succesful PhD defense by Sally Helmy at the "Università Degli Studi di Milano"...
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Thrilled for being invited by <a href="https://twitter.com/rondelvale?ref_src=twsrc%5Etfw">@rondelvale</a> at university of Milan as a PhD examination referee for a very interesting project! <a href="https://t.co/Uk2GOXqefQ">pic.twitter.com/Uk2GOXqefQ</a></p>&mdash; Alexandros Koutsioumpas (@a_koutsioubas) <a href="https://twitter.com/a_koutsioubas/status/1813209809048445096?ref_src=twsrc%5Etfw">July 16, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
