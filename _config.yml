@@ -32,9 +32,6 @@ theme: minima
 plugins:
   - jekyll-feed
 
-feed:
-  categories:
-  - jekyll update
 
 #plugins: [jekyll-paginate]
 #paginate: 4
