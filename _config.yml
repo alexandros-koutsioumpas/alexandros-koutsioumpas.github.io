@@ -32,9 +32,9 @@ theme: minima
 plugins:
   - jekyll-feed
 
-#plugins: [jekyll-paginate]
-#paginate: 4
-#paginate_path: /website/page:num/
+plugins: [jekyll-paginate]
+paginate: 4
+paginate_path: /website/page:num/
 
 # Exclude from processing.
 # The following items will not be processed, by default.
