@@ -35,7 +35,6 @@ plugins:
 feed:
   categories:
   - jekyll update
-  - hidden
 
 #plugins: [jekyll-paginate]
 #paginate: 4
