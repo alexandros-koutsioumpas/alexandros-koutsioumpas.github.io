@@ -24,4 +24,4 @@ stuff published over the years in Greek language...
 
 - [A reply to @cubic_logic]({{site.baseurl}}/assets/Reply_to_cubic_logic.pdf) (2024)
 
-- [kkOracle a fun project](https://alexandros-koutsioumpas.github.io/jekyll/update/2025/03/01/kkOracle.html) (2025)
+- [kkOracle a fun project](https://alexandros-koutsioumpas.github.io/jekyll/update/_2025/03/01/kkOracle.html) (2025)
