@@ -2,8 +2,7 @@
 layout: post
 title:  "kkOracle, a fun project.. (in greek)"
 date:   2025-03-01 14:00:00 +0200
-categories: jekyll update
-hidden: True
+categories: hidden
 ---
 
 
