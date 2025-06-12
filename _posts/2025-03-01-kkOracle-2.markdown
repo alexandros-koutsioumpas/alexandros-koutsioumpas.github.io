@@ -97,7 +97,7 @@ categories: jekyll update
 
 και max sequence length = 1024. Το training διαρκεί ~30epochs ή 5.1B tokens και ακολουθεί ένα cosine decay schedule. Το training loss μειώνεται με το training time με αναμενόμενο ρυθμό, ενω το validation loss φταίνει σε ένα plateau με τιμή ~3.5 μετά τα 20epochs.
 
-<img src="{{site.baseurl}}/assets/kkoracle_training.jpg" alt="training" width="600"/>
+<img src="{{site.baseurl}}/assets/training.jpg" alt="training" width="600"/>
 
 - Μετά την εκπαίδευση του base model χρησιμοποιώ τα (synthetic) ζεύγη ερωτήσεων-απαντήσεων που είχα παράγει για το προηγούμενο Meltemi fine-tune για να μετατρέψω το μοντέλο σε chat. Ουσιαστικά κάνω train για ένα μόνο epoch το base model με αυτό το dataset ερωτήσεων και απαντήσεων.
 
