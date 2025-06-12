@@ -102,7 +102,8 @@ categories: jekyll update
 - Μετά την εκπαίδευση του base model χρησιμοποιώ τα (synthetic) ζεύγη ερωτήσεων-απαντήσεων που είχα παράγει για το προηγούμενο Meltemi fine-tune για να μετατρέψω το μοντέλο σε chat. Ουσιαστικά κάνω train για ένα μόνο epoch το base model με αυτό το dataset ερωτήσεων και απαντήσεων.
 
 - et voilà! Παρατηρήσεις, σχόλια, προτάσεις, κάτω από το post στο X.
-
+  
+<blockquote class="twitter-tweet"><p lang="und" dir="ltr">...and my LLM saga continues.. Μικρό μοντέλο 345M παραμέτρων εκπαιδευμένο εκ του μηδενός με το corpus της εφημερίδας &quot;Ριζοσπάστης&quot;.. προσφερόμενο και ως service στο telegram για easy evaluation.. λεπτομέρειες εδώ: <a href="https://t.co/qe5U7gE0Zo">https://t.co/qe5U7gE0Zo</a> <a href="https://t.co/lhWWnVAflU">https://t.co/lhWWnVAflU</a></p>&mdash; Alexandros Koutsioumpas (@a_koutsioubas) <a href="https://twitter.com/a_koutsioubas/status/1933200272823656665?ref_src=twsrc%5Etfw">June 12, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 
 
