@@ -6,7 +6,7 @@ categories: jekyll update
 ---
 
 
-<img src="{{site.baseurl}}/assets/Shua_dDm.jpg" alt="Shua" width="300"/>
+<img src="{{site.baseurl}}/assets/Shua_dDm.jpg" alt="Shua" width="400"/>
 
 New article (1) led by our collaborators in Paris, that makes heavy use of my older work MEMPROT (2) for the low-resolution determination of protein/detergent complex structure in solution from scattering data. Overall the paper represents an example of how good quality size-exclusion chromatography small-angle scattering data together with approriate modelling may elucidate the structure of membrane proteins solubilized by detergents.
 
