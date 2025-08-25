@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Integral membrane protein (Shua)/DDM detergent complexes in solution (article)."
-date:   2025-07-24 10:00:20 +0200
+date:   2025-08-24 10:00:20 +0200
 categories: jekyll update
 ---
 
