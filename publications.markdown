@@ -12,6 +12,8 @@ permalink: /Publications/
 
 **2025**
 
+- [Unraveling ShuA detergent-induced colloidal behavior in solution: A comprehensive SEC-MALS, SAXS, and SANS study](https://doi.org/10.1002/pro.70258) A. Pozza, A. Martel, M. Moir, T. A. Darwish, K. Wimalan, A. Koutsioubas, S. Combet, F. Bonneté ***Protein Science*** (2025)
+
 - [Influence of Grafting Density and the Ionic Environment on the Structure of Zwitterionic Brushes](https://pubs.acs.org/doi/10.1021/acsapm.4c02879) Judith Witte, Alexandros Koutsioubas, Samantha Micciulla, Laura Roxana Stingaciu, Mariano Andrés Paulin, Margarethe Dahl, Christian Fettkenhauer, Joerg Lahann, Olaf Holderer, Stefan Wellert ***ACS Applied Polymer Materials*** (2025)
 
 - [Tuning the Morphology of Spray-Coated Biohybrid Beta-lactoglobulin:TiBALDh Films with pH for Water-Based and Nanostructured Titania](https://pubs.acs.org/doi/10.1021/jacsau.5c00097) Julian E. Heger, Julija Reitenbach, Lucas P. Kreuzer, Guangjiu PanTing, TianLinus F. Huber, Nian Li, Benedikt Sochor, Matthias Schwartzkopf, Stephan V. Roth, Alexandros Koutsioubas, Peter Müller-Buschbaum ***JACS Au*** (2025)
