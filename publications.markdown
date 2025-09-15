@@ -12,6 +12,8 @@ permalink: /Publications/
 
 **2025**
 
+- [Exploring the Limits of Passive Macromolecular Translocation through Phospholipid Membranes](https://doi.org/10.1021/acs.biomac.5c01234) Ekaterina Kostyurina, Ralf Biehl, Margarita Kruteva, Alexandros Koutsioubas, Henrich Frielinghaus, Nageshwar Rao Yepuri, Stephan Förster, Jürgen Allgaier ***Biomacromolecules*** (2025)
+
 - [Unraveling ShuA detergent-induced colloidal behavior in solution: A comprehensive SEC-MALS, SAXS, and SANS study](https://doi.org/10.1002/pro.70258) A. Pozza, A. Martel, M. Moir, T. A. Darwish, K. Wimalan, A. Koutsioubas, S. Combet, F. Bonneté ***Protein Science*** (2025)
 
 - [Influence of Grafting Density and the Ionic Environment on the Structure of Zwitterionic Brushes](https://pubs.acs.org/doi/10.1021/acsapm.4c02879) Judith Witte, Alexandros Koutsioubas, Samantha Micciulla, Laura Roxana Stingaciu, Mariano Andrés Paulin, Margarethe Dahl, Christian Fettkenhauer, Joerg Lahann, Olaf Holderer, Stefan Wellert ***ACS Applied Polymer Materials*** (2025)
