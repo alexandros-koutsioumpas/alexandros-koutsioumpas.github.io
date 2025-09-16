@@ -10,6 +10,6 @@ categories: jekyll update
 
 New open access article published at Biomacromolecules Journal. A continuation of an internal project on the passive translocation of designed amphipathic polymers through bio-membranes.
 
-It contains some nice neutron reflectivity data acquired at the MARIA instrument concerning the interaction of this amphipathic polymers with supported model membranes.
+It contains some nice neutron reflectivity data acquired at the MARIA instrument (and fitted using Anaklasis software) concerning the interaction of this amphipathic polymers with supported model membranes.
 
 [Exploring the Limits of Passive Macromolecular Translocation through Phospholipid Membranes](https://doi.org/10.1021/acs.biomac.5c01234) Ekaterina Kostyurina, Ralf Biehl, Margarita Kruteva, Alexandros Koutsioubas, Henrich Frielinghaus, Nageshwar Rao Yepuri, Stephan Förster, Jürgen Allgaier ***Biomacromolecules*** (2025)
