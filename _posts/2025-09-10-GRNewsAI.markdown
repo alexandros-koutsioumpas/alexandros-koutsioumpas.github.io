@@ -1,0 +1,17 @@
+---
+layout: post
+title:  "A weekend project: GRNewsAI"
+date:   2025-09-10 10:00:20 +0200
+categories: jekyll update
+---
+
+
+<img src="{{site.baseurl}}/assets/GRnewsAI_image.jpeg" alt="Shua" width="400"/>
+
+A new small open source Python3.8+ project leveraging the power of local Large Language Models. For greek speakers who want to catch the news but have limited time, they may use the provided script with their favorite greek news RSS sources and create locally using [Llama Krikri](https://www.ekathimerini.com/economy/1261724/llama-krikri-a-revolution-in-greek-ai-technology/) a brief news bulletin in MarkDown/PDF or MP3 audio format for private use.
+
+The only requirement is that the local machine should be able to run Llamma Krikri "decently", meaning that a GPU and 16Gb or VRAM should be available. Newer MacBooks fulfil these requirements, but the script is comaptible with all other platforms (Linux/Windows).
+
+Check the script [repository](https://github.com/alexandros-koutsioumpas/GRNewsAI/).
+
+By the way, playing around with Llama Krikri, I have to say that it represents a huge improvement comparing to Meltemi.
