@@ -15,3 +15,7 @@ The only requirement is that the local machine should be able to run Llamma Krik
 Check the script [repository](https://github.com/alexandros-koutsioumpas/GRNewsAI/).
 
 By the way, playing around with Llama Krikri, I have to say that it represents a huge improvement comparing to Meltemi.
+
+Update December 2025: The second version of the script is now available, including news item clustering, more detailed summarizing and also links for the original stories.
+
+Check the new version [here](https://github.com/alexandros-koutsioumpas/GRNewsAIv2/)
