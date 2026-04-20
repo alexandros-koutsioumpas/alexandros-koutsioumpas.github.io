@@ -10,6 +10,11 @@ permalink: /Publications/
 
 [Google Scholar](https://scholar.google.de/citations?user=SuKPYFwAAAAJ&hl=en&oi=ao)
 
+
+**2026**
+
+- [Membrane remodelling mediates lipopeptide-induced immunity in Arabidopsis](https://doi.org/10.1038/s41477-026-02270-3) Gillard et al. ***Nature Plants*** (2026)
+
 **2025**
 
 - [Exploring the Limits of Passive Macromolecular Translocation through Phospholipid Membranes](https://doi.org/10.1021/acs.biomac.5c01234) Ekaterina Kostyurina, Ralf Biehl, Margarita Kruteva, Alexandros Koutsioubas, Henrich Frielinghaus, Nageshwar Rao Yepuri, Stephan Förster, Jürgen Allgaier ***Biomacromolecules*** (2025)
