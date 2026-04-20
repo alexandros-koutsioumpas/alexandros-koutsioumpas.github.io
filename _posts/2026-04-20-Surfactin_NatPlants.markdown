@@ -6,7 +6,7 @@ categories: jekyll update
 ---
 
 
-<img src="{{site.baseurl}}/assets/Arabidopsis_thaliana.jpg" alt="Arabidopsis" width="400"/>
+<img src="{{site.baseurl}}/assets/Arabidopsis_thaliana.jpg" alt="Arabidopsis" width="200"/>
 
 Really happy to have contributed to a highly multidisciplinary biophysical work published in *Nature Plants* (1) that reveals how immune activation in *Arabidopsis thaliana(pictured above)* by bacteria-derived lipopeptides is mediated via specific interaction with membrane sphingolipids and subsequent membrane remodelling that triggers the activation of mechanosensitive ion channels. In this context, neutron reflectometry at MARIA instrument helped to characterize the insertion of Surfactin lipopeptide in the outer leaflet of model membranes and quantify the associated membrane thinning, complementing data from x-ray scattering techniques, microscopy and molecular simulation.
 
