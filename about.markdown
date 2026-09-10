@@ -23,10 +23,11 @@ During 2009-2011, I worked as a PostDoc at the [Laboratoire Léon Brillouin](htt
 
 Development and testing of algorithms for the extraction of biomolecular structural information, from x-ray and neutron scattering data. 
 
+- Membrane Biophysics
+
+After initial work at LLB, currently using neutron reflectometry @ MARIA instrument as the main experimental tool several systems are investigated including nanoparticle-membrane and membrane-vesicle interactions.
+
 - Polarized Neutrons for structural Investigations
 
 Optimization of the MARIA neutron reflectometer for research in the fields of nano-magnetism and energy-related materials. 
 
-- Membrane Biophysics
-
-After initial work at LLB, currently using neutron reflectometry @ MARIA instrument as the main experimental tool several systems are investigated including nanoparticle-membrane and membrane-vesicle interactions.
