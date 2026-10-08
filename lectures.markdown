@@ -16,5 +16,5 @@ materials from various lectures...
 
 **Neutrons and Food school (2026)**
 
--[Lecture slides]()
+-[Lecture slides]({{site.baseurl}}/assets/Neutrons_Food_Workshop_Slides.pdf) 
 
