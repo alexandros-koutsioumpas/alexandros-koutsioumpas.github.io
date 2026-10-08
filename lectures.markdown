@@ -4,7 +4,7 @@ title: lectures
 permalink: /lectures/
 ---
 
-stuff published over the years in Greek language...
+materials from various lectures...
 
 **Patras Phys. Dept. (2026)**
 
