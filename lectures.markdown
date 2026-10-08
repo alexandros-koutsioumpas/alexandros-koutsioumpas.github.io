@@ -14,5 +14,7 @@ materials from various lectures...
 - [Book by Philip Nelson on Biological Physics](https://www.esalq.usp.br/lepse/imgs/conteudo_thumb/Biological-Physics-Energy--Information--Life.pdf)
 - [Google books link for "Molecular Driving Forces" by Ken Dill](https://books.google.de/books?id=1gYPBAAAQBAJ&lpg=PP1&pg=PP1#v=onepage&q&f=false)
 
+**Neutrons and Food school (2026)**
 
+-[Lecture slides]()
 
