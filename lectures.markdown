@@ -11,6 +11,7 @@ materials from various lectures...
 - [Lecture slides](https://www)
 - [PhysOrg article on Mary Rose preservation](https://phys.org/news/2014-11-single-step-method-waterlogged-wooden-artefacts.html)
 - [Book by Philip Nelson on Biological Physics](https://www.esalq.usp.br/lepse/imgs/conteudo_thumb/Biological-Physics-Energy--Information--Life.pdf)
+- [Google books link for "Molecular Driving Forces" by Ken Dill](https://books.google.de/books?id=1gYPBAAAQBAJ&lpg=PP1&pg=PP1#v=onepage&q&f=false)
 
 
 
