@@ -15,7 +15,7 @@ permalink: /Publications/
 
 - [GM1 Oligosaccharide Reprograms Neuro2a-Derived Extracellular Vesicles for Selective, Low-Disruption Membrane Interactions](https://doi.org/10.1016/j.colsurfb.2026.116258) Sally Helmy; Giulia Lunghi; Alexandros Koutsioubas; Stephen C.L. Hall; Miriam Grava; Hendrik Vondracek; László Almásy; László Bottyán; Martin Rosenthal; Maria Fazzari et al. **Colloids and Surfaces B: Biointerfaces** (2026)
 
-<img src="{{site.baseurl}}/assets/GM1.jpg" alt="GM1" style="right;" width="400"/>
+<img src="{{site.baseurl}}/assets/GM1.jpg" alt="GM1" style="right;" width="300"/>
 
 - [Myelin basic protein binding is modulated by leaflet asymmetry and lipid composition](https://doi.org/10.1016/j.jcis.2026.141116) Julio M. Pusterla, Alexandros Koutsioubas, Nicolò Paracini, Philipp Gutfreund, Maximilian W.A. Skoda, Stephen Hall, Igor Graf von Westarp, Irina Apanasenko, Sabine Dieluweit, Guillermo Beltramo, Marina Cagnes, Stephan Foerster, Andreas M. Stadler **Journal of Colloid and Interface Science** (2026)
 
