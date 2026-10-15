@@ -13,6 +13,10 @@ permalink: /Publications/
 
 **2026**
 
+- [GM1 Oligosaccharide Reprograms Neuro2a-Derived Extracellular Vesicles for Selective, Low-Disruption Membrane Interactions](https://doi.org/10.1016/j.colsurfb.2026.116258) Sally Helmy; Giulia Lunghi; Alexandros Koutsioubas; Stephen C.L. Hall; Miriam Grava; Hendrik Vondracek; László Almásy; László Bottyán; Martin Rosenthal; Maria Fazzari et al. **Colloids and Surfaces B: Biointerfaces** (2026)
+
+<img src="{{site.baseurl}}/assets/GM1.jpg" alt="GM1" style="right;" width="400"/>
+
 - [Myelin basic protein binding is modulated by leaflet asymmetry and lipid composition](https://doi.org/10.1016/j.jcis.2026.141116) Julio M. Pusterla, Alexandros Koutsioubas, Nicolò Paracini, Philipp Gutfreund, Maximilian W.A. Skoda, Stephen Hall, Igor Graf von Westarp, Irina Apanasenko, Sabine Dieluweit, Guillermo Beltramo, Marina Cagnes, Stephan Foerster, Andreas M. Stadler **Journal of Colloid and Interface Science** (2026)
 
 - [Membrane remodelling mediates lipopeptide-induced immunity in Arabidopsis](https://doi.org/10.1038/s41477-026-02270-3) Guillaume Gilliard, Jelena Pršić, Jean-Marc Crowet, Catherine Chemotti, Jahed Ahmed, Joseph Lorent, Marie-Dominique Jolivet, Sabrina Egli, Stéphane Egée, Guillaume Bouyer, Gaëlle Race, Lennard van Buren, Anke Van Den Berghe, Anthony Argüelles-Arias, Marion Mathelié-Guinlet, Heba Ibrahim, Manon Genva, Laetitia Fouillen, Cécile Mirande-Bret, Oihana Razin, Brian Vue, Milan Zupunski, W. Patricio Luzuriaga-Loaiza, Estelle Deboever, M. Nail Nasir, Laurence Lins, Patrick Van Der Smissen, Farah Boubsi, Sabine Eschrig, Véronique Germain, Monica Höfte, Cyril Zipfel, Yves F. Dufrêne, Donatienne Tyteca, Alexandros Koutsioubas, Paola Brocca, Guido Grossman, Stefanie Ranf, Stephan Dorey, Barbara De Coninck, Thorsten Nürnberger, Sébastien Mongrand, Julien Gronnier, Valeria Rondelli, Magali Deleu and Marc Ongena **Nature Plants** (2026)
