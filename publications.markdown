@@ -13,7 +13,9 @@ permalink: /Publications/
 
 **2026**
 
-- [GM1 Oligosaccharide Reprograms Neuro2a-Derived Extracellular Vesicles for Selective, Low-Disruption Membrane Interactions](https://doi.org/10.1016/j.colsurfb.2026.116258) Sally Helmy; Giulia Lunghi; Alexandros Koutsioubas; Stephen C.L. Hall; Miriam Grava; Hendrik Vondracek; László Almásy; László Bottyán; Martin Rosenthal; Maria Fazzari et al. **Colloids and Surfaces B: Biointerfaces** (2026)
+- [VIPR: Versatile inverse problem software framework](https://doi.org/10.1016/j.softx.2026.103163) Jeyhun Rustamov, Sascha Creutzburg, Jens Bornschein, Michael Bussmann, Marina Ganeva, Alexander Gerlach, Stefan Häusler, Bernd Helm, Alexander Hinderhofer, Robert Juzak, Alexandros Koutsioubas, Rico Löser, Valentin Munteanu, Vedhas Pandit, Ulrich Schramm, Frank Schreiber, Nico Mothes, Jeffrey Kelling **SoftwareX** (2026)
+
+- [GM1 Oligosaccharide Reprograms Neuro2a-Derived Extracellular Vesicles for Selective, Low-Disruption Membrane Interactions](https://doi.org/10.1016/j.colsurfb.2026.116258) Sally Helmy, Giulia Lunghi, Alexandros Koutsioubas, Stephen C.L. Hall, Miriam Grava, Hendrik Vondracek, László Almásy, László Bottyán, Martin Rosenthal, Maria Fazzari et al. **Colloids and Surfaces B: Biointerfaces** (2026)
 
 <img src="{{site.baseurl}}/assets/GM1.jpg" alt="GM1" style="right;" width="300"/>
 
