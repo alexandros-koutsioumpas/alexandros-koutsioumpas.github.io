@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "VIPR Software Framework Brings Machine Learning to Scientific Inverse Problems"
-date:   2026-02-11 08:00:20 +0200
+date:   2026-11-02 08:00:20 +0200
 categories: jekyll update
 ---
 
