@@ -6,7 +6,7 @@ categories: jekyll update
 ---
 
 
-[Scienmag article](https://scienmag.com/vipr-software-framework-brings-machine-learning-to-scientific-inverse-problems/) concerning our recent [SoftwareX article](https://doi.org/10.1016/j.softx.2026.103163) on the development of VIPR software framework which applies a Machine Learning approach for the automatic inversion of reflectivity data, relevant both to the case on X-rays and neutrons.
+[Scienmag newspiece](https://scienmag.com/vipr-software-framework-brings-machine-learning-to-scientific-inverse-problems/) concerning our recent [SoftwareX article](https://doi.org/10.1016/j.softx.2026.103163) on the development of VIPR software framework which applies a Machine Learning approach for the automatic inversion of reflectivity data, relevant both to the case on X-rays and neutrons.
 
 
 
