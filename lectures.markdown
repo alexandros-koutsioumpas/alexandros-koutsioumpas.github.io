@@ -6,6 +6,11 @@ permalink: /lectures/
 
 materials from various lectures...
 
+**ML-Reflectometry workshop (2026)**
+
+- [Lecture slides](https://indico.frm2.tum.de/event/658/attachments/1251/2557/Reflectivity_tutorial.pdf)
+- [Jupyter notebooks with exercises](https://github.com/alexandros-koutsioumpas/anaklasis/tree/main/templates_binder/ML_workshop)
+  
 **Patras Phys. Dept. (2026)**
 
 - [Lecture slides]({{site.baseurl}}/assets/slides_Patras.pdf)
